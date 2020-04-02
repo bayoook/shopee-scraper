@@ -1,0 +1,6 @@
+max-page: 10
+data-per-page: 100
+match-id: 33
+
+user-agent: curl
+file-store-location: data/scrap-result.json
