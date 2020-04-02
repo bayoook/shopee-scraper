@@ -1,2 +1,4 @@
-PyYAML==5.1.2
-requests==2.22.0
+PyYAML == 5.1.2
+requests == 2.22.0
+selenium == 3.141.0
+selenium_wire == 1.0.11
